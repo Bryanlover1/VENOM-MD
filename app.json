@@ -48,7 +48,7 @@
      "BOT_MENU_LINKS" : {
 
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"",
+      "value":"https://telegra.ph/file/6968b5e74f348d681667b.mp4",
       "required":false
 
      },
@@ -65,7 +65,7 @@
     },
    "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME (this is optionnal)",
-     "required" :false
+     "required" :true
     }  
           ,
     "SESSION_ID":
@@ -80,14 +80,14 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "Bryant tech"
+    "value": "𝗕𝗥𝗬𝗔𝗡 𝗧𝗘𝗖𝗛"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "233530729233"
+    "value": "233263176982"
   },
     "WARN_COUNT":
   {
