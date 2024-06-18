@@ -83,7 +83,7 @@ OR
 ***
 ### THANKS TO:
 - [***King David***](https://github.com/Kingdavid3333) For several Cmds & Ideas.
-- [***Bryant Tech***](https://github.com/WElsa2090) For Genaral Help and Brotherhood. 
+- [***Bryant Tech***](https://GitHub.com/Elsa2090) For Genaral Help and Brotherhood. 
 - [***France king***](https://github.com/Franceking1) For Code encryption. 
 - [***Gucci king***](https://github.com/Gucciking6) For Providing a Base of **VENOM-MD**
 - <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
