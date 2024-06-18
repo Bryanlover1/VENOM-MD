@@ -11,8 +11,8 @@
 <a href="https://github.com/Bryanlover1/VENOM-md"><img title="Author" src="https://img.shields.io/badge/VENOM_MD-gold?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/BryantXtech1/Madara-md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Elsa2090?label=Followers&style=social"></a>
-<a href="https://github.com/Elsa2090/Madara-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Elsa2090/Madara-md?&style=social"></a>
+<a href="https://github.com/Bryanlover1/VENOM-MD?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Bryanlover1?label=Followers&style=social"></a>
+<a href="https://github.com/Bryanlover1/VENOM-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Bryanlover1/VENOM-MD?&style=social"></a>
 <a href="https://github.com/Elsa2090/Madara-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Elsa2090/Madara-md?style=social"></a>
 <a href="https://github.com/Elsa2090/Madara-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Elsa2090/Madara-md?label=Watching&style=social"></a>
   
