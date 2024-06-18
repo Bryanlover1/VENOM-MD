@@ -1,14 +1,14 @@
-<h1 align="center"> 𝚻𝚮𝚵 𝚳𝚫𝐃𝚫𝚪𝚫 𝚳𝐔𝐋𝚻𝚰 𝐃𝚵𝛁𝚰𝐂𝚵  </h1>
+<h1 align="center"> 𝚻𝚮𝚵 𝛁𝚵𝚴𝚯𝚳 𝚳𝐔𝐋𝚻𝚰 𝐃𝚵𝛁𝚰𝐂𝚵  </h1>
 <p align="center">  
   
 ***
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS+FOR+CHOOSING+VENOM-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BRYAN+TECH;YOU+SHALL+OBEY+ME" alt="Typing SVG" /></a>
   </p>
-    <img alt="Madara-MD" width="700" height="300" src="https://telegra.ph/file/84ad68f94bec7b84a423b.jpg">
+    <img alt="VENOM-MD" width="700" height="300" src="https://telegra.ph/file/84ad68f94bec7b84a423b.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/BryantXtech1/Madara-md"><img title="Author" src="https://img.shields.io/badge/MADARA_MD-gold?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Bryanlover1/VENOM-md"><img title="Author" src="https://img.shields.io/badge/VENOM_MD-gold?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/BryantXtech1/Madara-md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Elsa2090?label=Followers&style=social"></a>
