@@ -5,7 +5,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS+FOR+CHOOSING+MADARA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BRYANT+TECH;WELCOME+TO+MY+WORLD" alt="Typing SVG" /></a>
   </p>
-    <img alt="Madara-MD" width="700" height="300" src="https://telegra.ph/file/55aa3542cb62696db1e43.png">
+    <img alt="Madara-MD" width="700" height="300" src="https://telegra.ph/file/84ad68f94bec7b84a423b.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/BryantXtech1/Madara-md"><img title="Author" src="https://img.shields.io/badge/MADARA_MD-gold?style=for-the-badge&logo=github"></a>
