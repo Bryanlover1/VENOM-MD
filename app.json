@@ -1,9 +1,9 @@
 {
-  "name":"MADARA-MD",
-  "description":"An easy and simple WhatsApp bot developed by France King",
+  "name":"VENOM-MD",
+  "description":"An easy and simple WhatsApp bot developed by Bryan Tech",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/55aa3542cb62696db1e43.png",
-  "repository":"https://github.com/Elsa2090/Madara-md",
+  "logo":"https://telegra.ph/file/84ad68f94bec7b84a423b.jpg",
+  "repository":"https://github.com/Bryanlover1/VENOM-MD",
   "succes_url":"/",
   "stack":"container",
      "env":{
@@ -41,14 +41,14 @@
     "BOT_NAME" : {
 
       "description":"put A name for your bot",
-      "value":"MADARA-MD",
+      "value":"VENOM-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
 
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/6725b315e245e7ecfa22f.mp4",
+      "value":"",
       "required":false
 
      },
