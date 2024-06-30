@@ -24,9 +24,7 @@
 
 ***2.`Get Session ID` by [`SCANING QR 1`](https://c9452bc3-a909-44d9-8d79-df37290924a1-00-1k07ddzipxbyy.spock.replit.dev/pair) OR [`PAIRING CODE`](https://5ff03986-29a1-4ee2-9562-32db1a78c4f8-00-2mcg4oyou65t5.janeway.replit.dev/qr)***
 
-***we will use Naruto md session id***
-
-## WE WILL BE USING WASI TECH PAIRING CODE FOR NOW. I WILL FIX IT LATER
+## WE WILL BE USING  NARUTO MD PAIRING CODE FOR NOW. I WILL FIX IT LATER
 
 *-Copy The Session ID to paste it in Heroku*
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
