@@ -53,9 +53,9 @@
 ***
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- <a href="https://instagram.com/Bryant_Tech.1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-gold?style=for-the-badge&logo=Instagram"></a>
+- <a href="https://instagram.com/Bryan_Tech.1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-gold?style=for-the-badge&logo=Instagram"></a>
 OR 
-- <a href="https://wa.me/233530729233"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-gold?style=for-the-badge&logo=WhatsApp"></a>
+- <a href="https://wa.me/233538733413"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-gold?style=for-the-badge&logo=WhatsApp"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
